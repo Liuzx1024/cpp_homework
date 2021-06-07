@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/cpp_homework.dir/subclass.cpp.o -o cpp_homework 

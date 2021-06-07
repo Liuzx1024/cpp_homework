@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuzx/Workspace/Cpp/cpp_homework/subclass.cpp
+iostream
+-
+istream
+-
+iterator
+-
+ostream
+-
+cstring
+-
+
